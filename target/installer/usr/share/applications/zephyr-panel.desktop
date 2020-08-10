@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=zephyr-panel
+Type=Application
+Exec=/opt/zephyr-panel/zephyr-panel
+Terminal=false
+NoDisplay=false
+Categories=Utility;
+Version=1.2
+Icon=zephyr-panel

@@ -1,0 +1,4 @@
+Component: main
+Origin: zephyr-panel
+Label: zephyr-panel
+Architecture: amd64

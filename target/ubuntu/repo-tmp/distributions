@@ -1,0 +1,7 @@
+Origin: zephyr-panel
+Label: zephyr-panel
+Codename: stable
+Architectures: amd64
+Components: main
+Description: 
+SignWith: 78F15F5292A2C548220139E822E49718F205C115

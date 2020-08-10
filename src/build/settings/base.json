@@ -1,0 +1,8 @@
+{
+    "app_name": "zephyr-panel",
+    "author": "G1K",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0",
+    "gpg_key": "78F15F5292A2C548220139E822E49718F205C115",
+    "gpg_name": "G1K"
+}

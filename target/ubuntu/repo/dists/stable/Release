@@ -1,0 +1,18 @@
+Origin: zephyr-panel
+Label: zephyr-panel
+Codename: stable
+Date: Mon, 10 Aug 2020 12:12:27 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 7c7fb52c22e904c16bf6d04d7ee2b669 482 main/binary-amd64/Packages
+ d98035f4dab3015631f04cb674047ab3 363 main/binary-amd64/Packages.gz
+ 28c204af055e24894bdb7d3f56f82efd 77 main/binary-amd64/Release
+SHA1:
+ 6514fd2f62c816eddbf1e2cd2d50a4351b9e9c0b 482 main/binary-amd64/Packages
+ cb202c934bcae1e15147bdc93b36b02b9aa848cd 363 main/binary-amd64/Packages.gz
+ 9e246f91fa2a05c84a4ae3be08b20d94c85284c4 77 main/binary-amd64/Release
+SHA256:
+ 34a9bfc6680646dc4e8ee1c1fdc56d6a231a4fd24e1b85002b2819e7df624746 482 main/binary-amd64/Packages
+ 8599ad98914778f824eace94f975502c7fd6984f9a5bd295ca2c75946a1f43af 363 main/binary-amd64/Packages.gz
+ fe726a0fed2056a335bfc79364b569b890e106c4f2800f18e9657eb39cfe841e 77 main/binary-amd64/Release

@@ -1,0 +1,17 @@
+Package: zephyr-panel
+Version: 0.1
+License: unknown
+Vendor: G1K
+Architecture: amd64
+Maintainer: <@5e1747ad6cc8>
+Installed-Size: 90575
+Homepage: http://example.com/no-uri-given
+Priority: extra
+Section: default
+Filename: pool/main/z/zephyr-panel/zephyr-panel_0.1_amd64.deb
+Size: 35408628
+SHA256: c8bb9ad4f92d13e65be65148353485ac5af95df61c0aa2e3e3f51db327f76599
+SHA1: 83034a9e3d9cb1e1d82120a95eada880372a6072
+MD5sum: 29bd3e74fde210dc17b64384c1f6ca56
+Description: no description given
+
