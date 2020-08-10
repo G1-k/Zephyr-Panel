@@ -37,7 +37,7 @@ make
 
 4. Launch it 
 
-![alt_text][image1]
+![alt_text][image2]
 
 
 ## Tested Platforms
