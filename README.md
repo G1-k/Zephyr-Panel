@@ -16,24 +16,24 @@ A Linux application to control fan speed and keyboard backlight of ASUS Zephyrus
 2. RogAuraCore 
 
 * In home folder 
-'git clone https://github.com/wroberts/rogauracore.git'
+`git clone https://github.com/wroberts/rogauracore.git`
 
 * Install
-'''
+```
 git clone https://github.com/qquique/rogauracore
 cd rogauracore 
 git checkout initialize_keyboard
 autoreconf -i 
 ./configure
 make 
-'''
+```
 
 3. Install Zephry-panel
 
 * Download zephyr-panel.deb from this repository 
 
 * Install package using dpkg
-'sudo dpkg -i /path/to/zephyr-panel.deb'
+`sudo dpkg -i /path/to/zephyr-panel.deb`
 
 4. Launch it 
 
@@ -43,4 +43,3 @@ make
 ## Tested Platforms
 
 * Asus Zephyrus GA502 | Ubuntu 18.04 
-
